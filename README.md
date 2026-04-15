@@ -9,6 +9,7 @@ Personal notes from hands-on learning — organised by topic.
 | Topic | File | Description |
 |-------|------|-------------|
 | AWS | [vpc-and-networking.md](notes/aws/vpc-and-networking.md) | EC2, NLB, VPC, subnets, NAT, Session Manager, nginx |
+| AWS | [springboot-deployment.md](notes/aws/springboot-deployment.md) | Java 21 + Spring Boot 3.x, nginx reverse proxy, systemd, S3 deploy |
 
 ## Books
 
